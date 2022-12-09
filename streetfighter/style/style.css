@@ -1,0 +1,57 @@
+.lien {
+	text-decoration: none;
+	color: #ffffff;
+}
+
+.titre {
+	background-image: url(../img/pres.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #ffffff;
+}
+
+nav {
+	background-color: #730F0D;
+}
+
+h1 {
+	font-size: 105px;
+	padding: 170px 0;
+	text-shadow: 0 0 20px #730F0D;
+}
+
+#histoire {
+	background-image: url(../img/histoire.jpg);
+	background-position: center;
+	background-size: cover;
+	background-attachment: fixed;
+	color: #ffffff;
+}
+
+#histoire h2 {
+	padding-top: 200px;
+}
+
+#histoire p {
+	font-size: 20px;
+	padding: 10px 0 200px 0;
+}
+
+#persos {
+	background: rgb(115,15,13);
+	background: linear-gradient(323deg, rgba(115,15,13,1) 22%, rgba(208,104,40,1) 57%, rgba(0,0,0,1) 91%);
+	color: #ffffff;
+}
+
+#persos .row {
+	padding: 70px 0;
+}
+
+#footer {
+	background-color: #730F0D;
+}
+
+#footer .row {
+	padding: 100px 0;
+}
